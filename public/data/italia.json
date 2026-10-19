@@ -1,0 +1,114 @@
+{
+ "warStartDate": "2026-02-28",
+ "lastPrewarBulletin": "2026-02-23",
+ "endDate": "2026-10-12",
+ "measuredThrough": "2026-10-13T00:00:00+02:00",
+ "daysSinceWar": 227,
+ "groups": {
+  "automobilisti": 4630017756,
+  "autotrasporto": 3208234919,
+  "agricoltura": 578972175
+ },
+ "dailyRate": {
+  "automobilisti": 29868302,
+  "autotrasporto": 14797411,
+  "agricoltura": 3004190
+ },
+ "total": 8417224850,
+ "households": 26443900,
+ "householdsYear": 2025,
+ "perHousehold": 318.3,
+ "stato": {
+  "tagliAccise": 1626768077,
+  "ivaExtra": 1121457903
+ },
+ "perLitreNow": {
+  "benzina_pompa": 0.3203,
+  "gasolio_pompa": 0.4806,
+  "industriale": 0.3939,
+  "agricolo": 0.3829
+ },
+ "prices": {
+  "benzina": {
+   "warStart": 1.6546,
+   "now": 2.021,
+   "pctChange": 22.15,
+   "pretaxWarStart": 0.6833,
+   "pretaxNow": 0.9837,
+   "noWarNow": 1.7007
+  },
+  "gasolio": {
+   "warStart": 1.7018,
+   "now": 2.2407,
+   "pctChange": 31.67,
+   "pretaxWarStart": 0.722,
+   "pretaxNow": 1.1638,
+   "noWarNow": 1.7602
+  }
+ },
+ "litresPerDay": {
+  "benzina": 29851158,
+  "gasolio_rete": 40083299,
+  "gasolio_extrarete": 36320696,
+  "agricolo": 6309384
+ },
+ "exciseTimeline": [
+  {
+   "date": "2026-03-19",
+   "fuel": "benzina",
+   "from": 0.6729,
+   "to": 0.4729
+  },
+  {
+   "date": "2026-05-01",
+   "fuel": "benzina",
+   "from": 0.4729,
+   "to": 0.6229
+  },
+  {
+   "date": "2026-07-06",
+   "fuel": "benzina",
+   "from": 0.6229,
+   "to": 0.6729
+  },
+  {
+   "date": "2026-03-19",
+   "fuel": "gasolio",
+   "from": 0.6729,
+   "to": 0.4729
+  },
+  {
+   "date": "2026-05-25",
+   "fuel": "gasolio",
+   "from": 0.4729,
+   "to": 0.5729
+  },
+  {
+   "date": "2026-06-07",
+   "fuel": "gasolio",
+   "from": 0.5729,
+   "to": 0.6229
+  },
+  {
+   "date": "2026-07-06",
+   "fuel": "gasolio",
+   "from": 0.6229,
+   "to": 0.6729
+  },
+  {
+   "date": "2026-08-03",
+   "fuel": "gasolio",
+   "from": 0.6729,
+   "to": 0.5329
+  },
+  {
+   "date": "2026-10-05",
+   "fuel": "gasolio",
+   "from": 0.5329,
+   "to": 0.6229
+  }
+ ],
+ "sensitivityEx2022": 9426370273,
+ "builtAt": "2026-10-19T11:11:06.436842+00:00",
+ "maseLatestMonth": "2026-08"
+}
