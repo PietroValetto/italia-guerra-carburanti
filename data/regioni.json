@@ -1,0 +1,645 @@
+{
+ "householdsYear": 2025,
+ "regions": {
+  "ITC1": {
+   "name": "Piemonte",
+   "households": 2013200,
+   "groups": {
+    "automobilisti": 329526853,
+    "autotrasporto": 134867489,
+    "agricoltura": 26683781
+   },
+   "dailyRate": {
+    "automobilisti": 2215220,
+    "autotrasporto": 636896,
+    "agricoltura": 172383
+   },
+   "total": 491078123,
+   "perHousehold": 243.93,
+   "automobilistiPerHousehold": 163.68,
+   "stato": {
+    "tagliAccise": 116819783,
+    "ivaExtra": 80176976
+   },
+   "litresPerDay": {
+    "benzina": 2133237,
+    "gasolio_rete": 2960985,
+    "gasolio_extrarete": 1548596,
+    "agricolo": 278322
+   },
+   "totalEx2022Partial": 526708506,
+   "rank": {
+    "total": 9,
+    "perHousehold": 20
+   }
+  },
+  "ITC2": {
+   "name": "Valle d'Aosta",
+   "households": 60700,
+   "groups": {
+    "automobilisti": 12627246,
+    "autotrasporto": 7480827,
+    "agricoltura": 1169339
+   },
+   "dailyRate": {
+    "automobilisti": 70133,
+    "autotrasporto": 34715,
+    "agricoltura": 5429
+   },
+   "total": 21277412,
+   "perHousehold": 350.53,
+   "automobilistiPerHousehold": 208.03,
+   "stato": {
+    "tagliAccise": 4308810,
+    "ivaExtra": 3040311
+   },
+   "litresPerDay": {
+    "benzina": 81235,
+    "gasolio_rete": 109464,
+    "gasolio_extrarete": 86120,
+    "agricolo": 13024
+   },
+   "totalEx2022Partial": 22733685,
+   "rank": {
+    "total": 20,
+    "perHousehold": 10
+   }
+  },
+  "ITC3": {
+   "name": "Liguria",
+   "households": 762800,
+   "groups": {
+    "automobilisti": 130838077,
+    "autotrasporto": 73301826,
+    "agricoltura": 4535414
+   },
+   "dailyRate": {
+    "automobilisti": 825534,
+    "autotrasporto": 299126,
+    "agricoltura": 24857
+   },
+   "total": 208675317,
+   "perHousehold": 273.56,
+   "automobilistiPerHousehold": 171.52,
+   "stato": {
+    "tagliAccise": 44405624,
+    "ivaExtra": 31548315
+   },
+   "litresPerDay": {
+    "benzina": 929555,
+    "gasolio_rete": 1056601,
+    "gasolio_extrarete": 853599,
+    "agricolo": 52370
+   },
+   "totalEx2022Partial": 230932008,
+   "rank": {
+    "total": 13,
+    "perHousehold": 18
+   }
+  },
+  "ITC4": {
+   "name": "Lombardia",
+   "households": 4545800,
+   "groups": {
+    "automobilisti": 724457569,
+    "autotrasporto": 415252813,
+    "agricoltura": 81003503
+   },
+   "dailyRate": {
+    "automobilisti": 4924769,
+    "autotrasporto": 1958272,
+    "agricoltura": 400155
+   },
+   "total": 1220713885,
+   "perHousehold": 268.54,
+   "automobilistiPerHousehold": 159.37,
+   "stato": {
+    "tagliAccise": 254992368,
+    "ivaExtra": 175665533
+   },
+   "litresPerDay": {
+    "benzina": 5664320,
+    "gasolio_rete": 5912226,
+    "gasolio_extrarete": 4717940,
+    "agricolo": 844395
+   },
+   "totalEx2022Partial": 1289872506,
+   "rank": {
+    "total": 1,
+    "perHousehold": 19
+   }
+  },
+  "ITH12": {
+   "name": "Trentino-Alto Adige",
+   "households": 476600,
+   "groups": {
+    "automobilisti": 112949758,
+    "autotrasporto": 85263475,
+    "agricoltura": 9834102
+   },
+   "dailyRate": {
+    "automobilisti": 693220,
+    "autotrasporto": 430461,
+    "agricoltura": 34289
+   },
+   "total": 208047335,
+   "perHousehold": 436.52,
+   "automobilistiPerHousehold": 236.99,
+   "stato": {
+    "tagliAccise": 38371734,
+    "ivaExtra": 27165130
+   },
+   "litresPerDay": {
+    "benzina": 606137,
+    "gasolio_rete": 1012043,
+    "gasolio_extrarete": 965094,
+    "agricolo": 103106
+   },
+   "totalEx2022Partial": 223115934,
+   "rank": {
+    "total": 14,
+    "perHousehold": 1
+   }
+  },
+  "ITH3": {
+   "name": "Veneto",
+   "households": 2127200,
+   "groups": {
+    "automobilisti": 406542864,
+    "autotrasporto": 315779951,
+    "agricoltura": 58010514
+   },
+   "dailyRate": {
+    "automobilisti": 2661645,
+    "autotrasporto": 1505553,
+    "agricoltura": 272156
+   },
+   "total": 780333328,
+   "perHousehold": 366.84,
+   "automobilistiPerHousehold": 191.12,
+   "stato": {
+    "tagliAccise": 143626891,
+    "ivaExtra": 98530709
+   },
+   "litresPerDay": {
+    "benzina": 2654182,
+    "gasolio_rete": 3545943,
+    "gasolio_extrarete": 3648846,
+    "agricolo": 627685
+   },
+   "totalEx2022Partial": 814384218,
+   "rank": {
+    "total": 3,
+    "perHousehold": 6
+   }
+  },
+  "ITH4": {
+   "name": "Friuli-Venezia Giulia",
+   "households": 566800,
+   "groups": {
+    "automobilisti": 107824138,
+    "autotrasporto": 60770136,
+    "agricoltura": 10221244
+   },
+   "dailyRate": {
+    "automobilisti": 714776,
+    "autotrasporto": 288979,
+    "agricoltura": 46428
+   },
+   "total": 178815518,
+   "perHousehold": 315.48,
+   "automobilistiPerHousehold": 190.23,
+   "stato": {
+    "tagliAccise": 37521742,
+    "ivaExtra": 26089383
+   },
+   "litresPerDay": {
+    "benzina": 758534,
+    "gasolio_rete": 904244,
+    "gasolio_extrarete": 691769,
+    "agricolo": 111628
+   },
+   "totalEx2022Partial": 190459756,
+   "rank": {
+    "total": 16,
+    "perHousehold": 14
+   }
+  },
+  "ITH5": {
+   "name": "Emilia-Romagna",
+   "households": 2050400,
+   "groups": {
+    "automobilisti": 393512294,
+    "autotrasporto": 355316954,
+    "agricoltura": 103716088
+   },
+   "dailyRate": {
+    "automobilisti": 2594559,
+    "autotrasporto": 1682090,
+    "agricoltura": 481164
+   },
+   "total": 852545335,
+   "perHousehold": 415.79,
+   "automobilistiPerHousehold": 191.92,
+   "stato": {
+    "tagliAccise": 142624835,
+    "ivaExtra": 95487091
+   },
+   "litresPerDay": {
+    "benzina": 2505374,
+    "gasolio_rete": 3461431,
+    "gasolio_extrarete": 4037459,
+    "agricolo": 1056013
+   },
+   "totalEx2022Partial": 843456645,
+   "rank": {
+    "total": 2,
+    "perHousehold": 2
+   }
+  },
+  "ITI1": {
+   "name": "Toscana",
+   "households": 1672100,
+   "groups": {
+    "automobilisti": 345864794,
+    "autotrasporto": 194319151,
+    "agricoltura": 18795557
+   },
+   "dailyRate": {
+    "automobilisti": 2181747,
+    "autotrasporto": 878867,
+    "agricoltura": 90264
+   },
+   "total": 558979502,
+   "perHousehold": 334.3,
+   "automobilistiPerHousehold": 206.84,
+   "stato": {
+    "tagliAccise": 118500596,
+    "ivaExtra": 83514031
+   },
+   "litresPerDay": {
+    "benzina": 2305366,
+    "gasolio_rete": 2883183,
+    "gasolio_extrarete": 2219632,
+    "agricolo": 216465
+   },
+   "totalEx2022Partial": 610741947,
+   "rank": {
+    "total": 7,
+    "perHousehold": 12
+   }
+  },
+  "ITI2": {
+   "name": "Umbria",
+   "households": 386500,
+   "groups": {
+    "automobilisti": 84678453,
+    "autotrasporto": 64950088,
+    "agricoltura": 9230426
+   },
+   "dailyRate": {
+    "automobilisti": 558586,
+    "autotrasporto": 295919,
+    "agricoltura": 55364
+   },
+   "total": 158858967,
+   "perHousehold": 411.02,
+   "automobilistiPerHousehold": 219.09,
+   "stato": {
+    "tagliAccise": 30073957,
+    "ivaExtra": 20587315
+   },
+   "litresPerDay": {
+    "benzina": 488106,
+    "gasolio_rete": 773479,
+    "gasolio_extrarete": 730429,
+    "agricolo": 100936
+   },
+   "totalEx2022Partial": 168592642,
+   "rank": {
+    "total": 17,
+    "perHousehold": 3
+   }
+  },
+  "ITI3": {
+   "name": "Marche",
+   "households": 651800,
+   "groups": {
+    "automobilisti": 142789449,
+    "autotrasporto": 76736069,
+    "agricoltura": 14979652
+   },
+   "dailyRate": {
+    "automobilisti": 908411,
+    "autotrasporto": 373026,
+    "agricoltura": 83637
+   },
+   "total": 234505169,
+   "perHousehold": 359.78,
+   "automobilistiPerHousehold": 219.07,
+   "stato": {
+    "tagliAccise": 50058267,
+    "ivaExtra": 34603780
+   },
+   "litresPerDay": {
+    "benzina": 697347,
+    "gasolio_rete": 1353939,
+    "gasolio_extrarete": 872605,
+    "agricolo": 163720
+   },
+   "totalEx2022Partial": 248014264,
+   "rank": {
+    "total": 12,
+    "perHousehold": 8
+   }
+  },
+  "ITI4": {
+   "name": "Lazio",
+   "households": 2661600,
+   "groups": {
+    "automobilisti": 435078329,
+    "autotrasporto": 279618829,
+    "agricoltura": 64889211
+   },
+   "dailyRate": {
+    "automobilisti": 2884353,
+    "autotrasporto": 1276678,
+    "agricoltura": 348106
+   },
+   "total": 779586369,
+   "perHousehold": 292.9,
+   "automobilistiPerHousehold": 163.46,
+   "stato": {
+    "tagliAccise": 154050029,
+    "ivaExtra": 105472871
+   },
+   "litresPerDay": {
+    "benzina": 3234796,
+    "gasolio_rete": 3581388,
+    "gasolio_extrarete": 3181656,
+    "agricolo": 719064
+   },
+   "totalEx2022Partial": 808197384,
+   "rank": {
+    "total": 4,
+    "perHousehold": 16
+   }
+  },
+  "ITF1": {
+   "name": "Abruzzo",
+   "households": 563300,
+   "groups": {
+    "automobilisti": 105082607,
+    "autotrasporto": 84386516,
+    "agricoltura": 14460341
+   },
+   "dailyRate": {
+    "automobilisti": 662465,
+    "autotrasporto": 420995,
+    "agricoltura": 75371
+   },
+   "total": 203929464,
+   "perHousehold": 362.03,
+   "automobilistiPerHousehold": 186.55,
+   "stato": {
+    "tagliAccise": 36897623,
+    "ivaExtra": 25432987
+   },
+   "litresPerDay": {
+    "benzina": 601046,
+    "gasolio_rete": 935041,
+    "gasolio_extrarete": 957361,
+    "agricolo": 149879
+   },
+   "totalEx2022Partial": 213477638,
+   "rank": {
+    "total": 15,
+    "perHousehold": 7
+   }
+  },
+  "ITF2": {
+   "name": "Molise",
+   "households": 132000,
+   "groups": {
+    "automobilisti": 21925329,
+    "autotrasporto": 18788545,
+    "agricoltura": 5636989
+   },
+   "dailyRate": {
+    "automobilisti": 138961,
+    "autotrasporto": 88508,
+    "agricoltura": 34100
+   },
+   "total": 46350863,
+   "perHousehold": 351.14,
+   "automobilistiPerHousehold": 166.1,
+   "stato": {
+    "tagliAccise": 7912638,
+    "ivaExtra": 5315623
+   },
+   "litresPerDay": {
+    "benzina": 113747,
+    "gasolio_rete": 204476,
+    "gasolio_extrarete": 211036,
+    "agricolo": 60787
+   },
+   "totalEx2022Partial": 45834380,
+   "rank": {
+    "total": 19,
+    "perHousehold": 9
+   }
+  },
+  "ITF3": {
+   "name": "Campania",
+   "households": 2235400,
+   "groups": {
+    "automobilisti": 286019697,
+    "autotrasporto": 309678519,
+    "agricoltura": 31448744
+   },
+   "dailyRate": {
+    "automobilisti": 1806031,
+    "autotrasporto": 1409225,
+    "agricoltura": 170444
+   },
+   "total": 627146960,
+   "perHousehold": 280.55,
+   "automobilistiPerHousehold": 127.95,
+   "stato": {
+    "tagliAccise": 101174727,
+    "ivaExtra": 69450470
+   },
+   "litresPerDay": {
+    "benzina": 1665415,
+    "gasolio_rete": 2566996,
+    "gasolio_extrarete": 3488203,
+    "agricolo": 341573
+   },
+   "totalEx2022Partial": 669680183,
+   "rank": {
+    "total": 6,
+    "perHousehold": 17
+   }
+  },
+  "ITF4": {
+   "name": "Puglia",
+   "households": 1653900,
+   "groups": {
+    "automobilisti": 294588160,
+    "autotrasporto": 200946082,
+    "agricoltura": 51063111
+   },
+   "dailyRate": {
+    "automobilisti": 1767365,
+    "autotrasporto": 889900,
+    "agricoltura": 286637
+   },
+   "total": 546597353,
+   "perHousehold": 330.49,
+   "automobilistiPerHousehold": 178.12,
+   "stato": {
+    "tagliAccise": 104588944,
+    "ivaExtra": 71371780
+   },
+   "litresPerDay": {
+    "benzina": 1346107,
+    "gasolio_rete": 2784302,
+    "gasolio_extrarete": 2261274,
+    "agricolo": 590877
+   },
+   "totalEx2022Partial": 558910623,
+   "rank": {
+    "total": 8,
+    "perHousehold": 13
+   }
+  },
+  "ITF5": {
+   "name": "Basilicata",
+   "households": 238600,
+   "groups": {
+    "automobilisti": 39991751,
+    "autotrasporto": 28986536,
+    "agricoltura": 11985196
+   },
+   "dailyRate": {
+    "automobilisti": 246623,
+    "autotrasporto": 136304,
+    "agricoltura": 72560
+   },
+   "total": 80963482,
+   "perHousehold": 339.33,
+   "automobilistiPerHousehold": 167.61,
+   "stato": {
+    "tagliAccise": 14790078,
+    "ivaExtra": 9739672
+   },
+   "litresPerDay": {
+    "benzina": 162416,
+    "gasolio_rete": 395463,
+    "gasolio_extrarete": 324570,
+    "agricolo": 143316
+   },
+   "totalEx2022Partial": 77713443,
+   "rank": {
+    "total": 18,
+    "perHousehold": 11
+   }
+  },
+  "ITF6": {
+   "name": "Calabria",
+   "households": 815500,
+   "groups": {
+    "automobilisti": 186133391,
+    "autotrasporto": 110013528,
+    "agricoltura": 15360004
+   },
+   "dailyRate": {
+    "automobilisti": 1124409,
+    "autotrasporto": 480850,
+    "agricoltura": 78450
+   },
+   "total": 311506924,
+   "perHousehold": 381.98,
+   "automobilistiPerHousehold": 228.24,
+   "stato": {
+    "tagliAccise": 64938450,
+    "ivaExtra": 45087496
+   },
+   "litresPerDay": {
+    "benzina": 909640,
+    "gasolio_rete": 1723360,
+    "gasolio_extrarete": 1232601,
+    "agricolo": 180105
+   },
+   "totalEx2022Partial": 334354356,
+   "rank": {
+    "total": 10,
+    "perHousehold": 4
+   }
+  },
+  "ITG1": {
+   "name": "Sicilia",
+   "households": 2084400,
+   "groups": {
+    "automobilisti": 301791331,
+    "autotrasporto": 303975005,
+    "agricoltura": 27784412
+   },
+   "dailyRate": {
+    "automobilisti": 1900553,
+    "autotrasporto": 1376128,
+    "agricoltura": 152433
+   },
+   "total": 633550748,
+   "perHousehold": 303.95,
+   "automobilistiPerHousehold": 144.79,
+   "stato": {
+    "tagliAccise": 104120257,
+    "ivaExtra": 72861033
+   },
+   "litresPerDay": {
+    "benzina": 2052375,
+    "gasolio_rete": 2476797,
+    "gasolio_extrarete": 3386684,
+    "agricolo": 334293
+   },
+   "totalEx2022Partial": 681491504,
+   "rank": {
+    "total": 5,
+    "perHousehold": 15
+   }
+  },
+  "ITG2": {
+   "name": "Sardegna",
+   "households": 745300,
+   "groups": {
+    "automobilisti": 167795666,
+    "autotrasporto": 87802580,
+    "agricoltura": 18164547
+   },
+   "dailyRate": {
+    "automobilisti": 988942,
+    "autotrasporto": 334919,
+    "agricoltura": 119963
+   },
+   "total": 273762794,
+   "perHousehold": 367.32,
+   "automobilistiPerHousehold": 225.14,
+   "stato": {
+    "tagliAccise": 56990724,
+    "ivaExtra": 40317397
+   },
+   "litresPerDay": {
+    "benzina": 942223,
+    "gasolio_rete": 1441937,
+    "gasolio_extrarete": 905222,
+    "agricolo": 221824
+   },
+   "totalEx2022Partial": 288726476,
+   "rank": {
+    "total": 11,
+    "perHousehold": 5
+   }
+  }
+ }
+}
